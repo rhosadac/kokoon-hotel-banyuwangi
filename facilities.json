@@ -1,0 +1,44 @@
+{
+  "hotel_name": "Kokoon Hotel Banyuwangi",
+  "star_rating": 4,
+  "location": "Banyuwangi, Jawa Timur, Indonesia",
+  "food_and_beverage": {
+    "starbucks_lobby": "Gerai resmi Starbucks di lobi lantai 1 (Buka 07:00 - 22:00). Barista dilatih langsung oleh Starbucks. Dapat ditukar via voucher welcome drink.",
+    "ijen_restaurant": "Lantai 3. Menyajikan sarapan buffet dengan menu lokal (Rawon Iga, Nasi Tempong Ayam, Soto Ayam) dan menu internasional. Tersedia stand Indomie dan Jamu tradisional saat sarapan.",
+    "rooftop_bar_restaurant": "Lantai 16. Menyajikan steak, truffle fries, chicken drum, beef burger. Menyediakan live music dan pemandangan sunset/sunrise."
+  },
+  "unique_facilities": {
+    "ev_charging": "Tersedia EV Charging Station AC 22 KW di basement (opsi berbayar dan gratis).",
+    "wellness": [
+      "Kolam renang indoor (dingin/sejuk)",
+      "Sauna",
+      "Spa dengan terapis profesional",
+      "Fitness Center modern"
+    ],
+    "family_amenities": [
+      "Kids Club",
+      "Mesin Arkade (Arcade Machine)",
+      "Family Room dengan 2 King Size Bed"
+    ],
+    "room_features": [
+      "Smart TV dengan Netflix",
+      "Wi-Fi Kencang",
+      "Balkon dengan view kota/laut/gunung",
+      "Akses kamar dengan kartu (key card)"
+    ]
+  },
+  "notable_staff": [
+
+  
+    {
+      "name": "Mas Fahmi",
+      "role": "Receptionist",
+      "expertise": "Cepat dalam proses check-in dan sangat membantu kebutuhan tamu."
+    },
+    {
+      "name": "Mas Waras",
+      "role": "Rooftop Bar Staff",
+      "expertise": "Pelayanan minuman yang ramah di lantai 16."
+    }
+  ]
+}
